@@ -1,1 +1,1 @@
-# <a href="zisyx.github.io/anasayfa">Siteye gitmek için tıklayınız</a>
+# <a href="zisyx.github.io/anasayfa.html">Siteye gitmek için tıklayınız</a>
